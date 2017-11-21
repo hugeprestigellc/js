@@ -20,3 +20,5 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
+
+alert("I am an alert box!");
